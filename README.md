@@ -1,4 +1,4 @@
-# javaScript-ProjectS
+# javaScript-Projects
 
 
 
