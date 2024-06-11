@@ -18,6 +18,11 @@
     • Project: Create a countdown timer.
     • Description: Implement a timer that counts down from a specified number of seconds.
 
+5. Arrays
+    • Project: Build a to-do list.
+    • Description: Use an array to store tasks and display them on the webpage.
+
+
 
 
 
