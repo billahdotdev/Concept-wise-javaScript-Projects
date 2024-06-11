@@ -9,9 +9,9 @@
  </br>  
 2. Functions
    
-    • Project: Build a basic math operations application.
-   
-    • Description: Implement functions for addition, subtraction, multiplication, and division.
+• Project: Build a basic math operations application.
+
+• Description: Implement functions for addition, subtraction, multiplication, and division.
    </br> 
 
 3. Control Structures
