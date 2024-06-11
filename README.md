@@ -120,3 +120,7 @@
 29. Web Components
     • Project: Create a custom form input element.
     • Description: Build a custom input component that can be reused across different forms.
+
+30. Webpack/Babel
+    • Project: Set up a modern JavaScript development environment.
+    • Description: Configure Webpack and Babel to bundle and transpile ES6+ code.
