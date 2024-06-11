@@ -41,3 +41,5 @@
     • Description: Validate user inputs like email, password, and confirm password.
 
 
+
+
