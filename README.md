@@ -128,3 +128,8 @@
 31. Testing (Jest, Mocha, etc.)
     • Project: Write tests for a JavaScript application.
     • Description: Implement unit tests and integration tests for an existing project.
+
+
+32. TypeScript
+    • Project: Convert a JavaScript project to TypeScript.
+    • Description: Add type definitions and refactor code to use TypeScript features.
