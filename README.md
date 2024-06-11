@@ -96,3 +96,7 @@
 23. Service Workers
     • Project: Create a simple PWA (Progressive Web App).
     • Description: Implement a service worker to cache assets and make the app work offline.
+
+24. WebSockets
+    • Project: Develop a real-time chat application.
+    • Description: Use WebSockets for bi-directional communication between the client and server.
