@@ -36,6 +36,8 @@
     • Description: Use events to handle clicks and display larger versions of thumbnails.
 
 
-
+9. Forms and Validation
+    • Project: Build a user registration form.
+    • Description: Validate user inputs like email, password, and confirm password.
 
 
