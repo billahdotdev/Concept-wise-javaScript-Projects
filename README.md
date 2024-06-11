@@ -124,3 +124,7 @@
 30. Webpack/Babel
     • Project: Set up a modern JavaScript development environment.
     • Description: Configure Webpack and Babel to bundle and transpile ES6+ code.
+
+31. Testing (Jest, Mocha, etc.)
+    • Project: Write tests for a JavaScript application.
+    • Description: Implement unit tests and integration tests for an existing project.
