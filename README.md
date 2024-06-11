@@ -108,3 +108,7 @@
 26. Shadow DOM
     • Project: Implement a custom modal dialog.
     • Description: Use the Shadow DOM to encapsulate styles and markup for the modal.
+
+27. Drag and Drop API
+    • Project: Develop a drag-and-drop task organizer.
+    • Description: Allow users to drag tasks between different categories or lists.
