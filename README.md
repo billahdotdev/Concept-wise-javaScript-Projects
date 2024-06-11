@@ -87,4 +87,8 @@
 
  21. AJAX
     • Project: Develop a live search feature.
-    • Description: Use AJAX to fetch and display search results dynamically as the user types.   
+    • Description: Use AJAX to fetch and display search results dynamically as the user types.
+
+22. Fetch API
+    • Project: Build a movie search application.
+    • Description: Fetch data from a movie API based on user input and display the results.
