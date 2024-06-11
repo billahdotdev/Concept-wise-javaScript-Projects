@@ -60,3 +60,6 @@
     • Project: Create a modular application.
     • Description: Break a larger project into smaller, manageable modules.   
 
+15. Canvas API
+    • Project: Develop a simple drawing application.
+    • Description: Allow users to draw on a canvas with different colors and brush sizes.
