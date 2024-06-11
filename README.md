@@ -12,7 +12,9 @@
 • Project: Build a basic math operations application.
 
 • Description: Implement functions for addition, subtraction, multiplication, and division.
+
 </br> 
+
 3. Control Structures
 
  • Project: Develop a basic quiz application.
