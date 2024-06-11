@@ -23,8 +23,7 @@
     • Description: Use an array to store tasks and display them on the webpage.
 
 
-
-
-
-
+6. Objects
+    • Project: Create a contact management system.
+    • Description: Store and manage contacts with properties like name, email, and phone number.
 
