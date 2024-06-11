@@ -116,3 +116,7 @@
 28. IndexedDB
     • Project: Build an offline-capable task manager.
     • Description: Use IndexedDB to store tasks and make the app usable offline.
+
+29. Web Components
+    • Project: Create a custom form input element.
+    • Description: Build a custom input component that can be reused across different forms.
