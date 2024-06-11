@@ -76,3 +76,15 @@
 18. Timers (setTimeout, setInterval)
     • Project: Create a game of whack-a-mole.
     • Description: Use timers to show and hide moles at random intervals.
+
+19. Geolocation API
+    • Project: Build a location-based weather app.
+    • Description: Get the user's location and display weather information for that location.
+
+20. Web Storage (localStorage and sessionStorage)
+    • Project: Create a preferences manager.
+    • Description: Allow users to save their preferences (e.g., theme, font size) and persist them using web storage.
+
+ 21. AJAX
+    • Project: Develop a live search feature.
+    • Description: Use AJAX to fetch and display search results dynamically as the user types.   
