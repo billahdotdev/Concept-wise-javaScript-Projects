@@ -63,3 +63,8 @@
 15. Canvas API
     • Project: Develop a simple drawing application.
     • Description: Allow users to draw on a canvas with different colors and brush sizes.
+
+
+16. Regular Expressions
+    • Project: Build a password strength checker.
+    • Description: Use regular expressions to validate password strength based on various criteria.
