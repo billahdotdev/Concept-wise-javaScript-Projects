@@ -100,3 +100,7 @@
 24. WebSockets
     • Project: Develop a real-time chat application.
     • Description: Use WebSockets for bi-directional communication between the client and server.
+
+25. Custom Elements
+    • Project: Create reusable UI components.
+    • Description: Build custom HTML elements like a star rating component.
