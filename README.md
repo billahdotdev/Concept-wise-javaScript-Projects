@@ -40,6 +40,8 @@
     • Project: Build a user registration form.
     • Description: Validate user inputs like email, password, and confirm password.
 
-
+10. Local Storage
+    • Project: Develop a note-taking application.
+    • Description: Save notes to local storage and retrieve them on page load.
 
 
