@@ -104,3 +104,7 @@
 25. Custom Elements
     • Project: Create reusable UI components.
     • Description: Build custom HTML elements like a star rating component.
+
+26. Shadow DOM
+    • Project: Implement a custom modal dialog.
+    • Description: Use the Shadow DOM to encapsulate styles and markup for the modal.
