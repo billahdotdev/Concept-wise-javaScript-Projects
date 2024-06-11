@@ -208,7 +208,7 @@
 
 </br> 
 
-28. Drag and Drop API
+27. Drag and Drop API
     
 • Project: Develop a drag-and-drop task organizer.
 
@@ -216,7 +216,7 @@
 
 </br> 
 
-29. IndexedDB
+28. IndexedDB
     
 • Project: Build an offline-capable task manager.
 
@@ -224,7 +224,7 @@
 
 </br> 
 
-30. Web Components
+29. Web Components
 
 • Project: Create a custom form input element.
 
@@ -232,15 +232,24 @@
 
 </br> 
 
-00. Webpack/Babel
+30. Webpack/Babel
+    
 • Project: Set up a modern JavaScript development environment.
+
 • Description: Configure Webpack and Babel to bundle and transpile ES6+ code.
-</br> 
-54. Testing (Jest, Mocha, etc.)
-• Project: Write tests for a JavaScript application.
-• Description: Implement unit tests and integration tests for an existing project.
+
 </br> 
 
-55. TypeScript
+31. Testing (Jest, Mocha, etc.)
+    
+• Project: Write tests for a JavaScript application.
+
+• Description: Implement unit tests and integration tests for an existing project.
+
+</br> 
+
+32. TypeScript
+    
 • Project: Convert a JavaScript project to TypeScript.
+
 • Description: Add type definitions and refactor code to use TypeScript features.
