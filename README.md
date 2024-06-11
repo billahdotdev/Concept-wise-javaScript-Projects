@@ -92,3 +92,7 @@
 22. Fetch API
     • Project: Build a movie search application.
     • Description: Fetch data from a movie API based on user input and display the results.
+
+23. Service Workers
+    • Project: Create a simple PWA (Progressive Web App).
+    • Description: Implement a service worker to cache assets and make the app work offline.
