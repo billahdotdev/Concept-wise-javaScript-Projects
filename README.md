@@ -72,3 +72,7 @@
 17. Event Bubbling and Delegation
     • Project: Implement a dynamic menu.
     • Description: Use event delegation to handle menu interactions efficiently.
+
+18. Timers (setTimeout, setInterval)
+    • Project: Create a game of whack-a-mole.
+    • Description: Use timers to show and hide moles at random intervals.
