@@ -27,3 +27,7 @@
     • Project: Create a contact management system.
     • Description: Store and manage contacts with properties like name, email, and phone number.
 
+7. DOM Manipulation
+    • Project: Develop a dynamic shopping list.
+    • Description: Allow users to add, edit, and delete items from the list.
+
