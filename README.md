@@ -48,4 +48,8 @@
     • Project: Fetch and display data from an API.
     • Description: Use the Fetch API to retrieve data and display it on the webpage.
 
+12. Error Handling
+    • Project: Implement a robust form submission.
+    • Description: Add try-catch blocks to handle errors during form submission.
+
 
