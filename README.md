@@ -112,3 +112,7 @@
 27. Drag and Drop API
     • Project: Develop a drag-and-drop task organizer.
     • Description: Allow users to drag tasks between different categories or lists.
+
+28. IndexedDB
+    • Project: Build an offline-capable task manager.
+    • Description: Use IndexedDB to store tasks and make the app usable offline.
