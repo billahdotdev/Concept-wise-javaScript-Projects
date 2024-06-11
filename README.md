@@ -13,9 +13,10 @@
     • Project: Develop a basic quiz application.
     • Description: Use if statements to evaluate user answers and display the score.
 
-
   
-
+4. Loops
+    • Project: Create a countdown timer.
+    • Description: Implement a timer that counts down from a specified number of seconds.
 
 
 
