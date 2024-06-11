@@ -52,4 +52,7 @@
     • Project: Implement a robust form submission.
     • Description: Add try-catch blocks to handle errors during form submission.
 
+13. ES6 Features (Arrow Functions, Template Literals, etc.)
+    • Project: Modernize an old JavaScript project.
+    • Description: Refactor an existing project to use ES6 features.
 
