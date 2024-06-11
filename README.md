@@ -68,3 +68,7 @@
 16. Regular Expressions
     • Project: Build a password strength checker.
     • Description: Use regular expressions to validate password strength based on various criteria.
+
+17. Event Bubbling and Delegation
+    • Project: Implement a dynamic menu.
+    • Description: Use event delegation to handle menu interactions efficiently.
