@@ -1,12 +1,13 @@
 # concept wise javaScript Projects    
 
-
 1. Variables and Data Types
 
 • Project: Create a simple tip calculator.
 
 • Description: Input the bill amount, tip percentage, and calculate the total bill.
+
 </br>  
+
 2. Functions
 
 • Project: Build a basic math operations application.
@@ -22,7 +23,8 @@
 • Description: Use if statements to evaluate user answers and display the score.
 
 </br> 
-7. Loops
+
+4. Loops
 
 • Project: Create a countdown timer.
 
