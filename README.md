@@ -181,6 +181,7 @@
 • Project: Create a simple PWA (Progressive Web App).
 
 • Description: Implement a service worker to cache assets and make the app work offline.
+
 </br> 
 
 24. WebSockets
@@ -192,30 +193,46 @@
 </br> 
 
 25. Custom Elements
-26. 
+ 
 • Project: Create reusable UI components.
 
 • Description: Build custom HTML elements like a star rating component.
 
 </br> 
 
-49. Shadow DOM
+26. Shadow DOM
+    
 • Project: Implement a custom modal dialog.
+
 • Description: Use the Shadow DOM to encapsulate styles and markup for the modal.
+
 </br> 
-50. Drag and Drop API
+
+28. Drag and Drop API
+    
 • Project: Develop a drag-and-drop task organizer.
+
 • Description: Allow users to drag tasks between different categories or lists.
+
 </br> 
-51. IndexedDB
+
+29. IndexedDB
+    
 • Project: Build an offline-capable task manager.
+
 • Description: Use IndexedDB to store tasks and make the app usable offline.
+
 </br> 
-52. Web Components
+
+30. Web Components
+
 • Project: Create a custom form input element.
+
 • Description: Build a custom input component that can be reused across different forms.
+
 </br> 
-53. Webpack/Babel
+
+00. Webpack/Babel
 • Project: Set up a modern JavaScript development environment.
 • Description: Configure Webpack and Babel to bundle and transpile ES6+ code.
 </br> 
