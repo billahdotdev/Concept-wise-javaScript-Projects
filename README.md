@@ -6,7 +6,7 @@
     • Project: Create a simple tip calculator.
    
     • Description: Input the bill amount, tip percentage, and calculate the total bill.
-   
+ </br>  
 
 2. Functions
    
