@@ -56,3 +56,7 @@
     • Project: Modernize an old JavaScript project.
     • Description: Refactor an existing project to use ES6 features.
 
+ 14. Modules
+    • Project: Create a modular application.
+    • Description: Break a larger project into smaller, manageable modules.   
+
