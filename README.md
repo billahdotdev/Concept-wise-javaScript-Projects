@@ -88,7 +88,7 @@
 
 </br> 
 
-13. Error Handling
+12. Error Handling
 
 • Project: Implement a robust form submission.
 
@@ -96,7 +96,7 @@
 
 </br> 
 
-14. ES6 Features (Arrow Functions, Template Literals, etc.)
+13. ES6 Features (Arrow Functions, Template Literals, etc.)
 
 • Project: Modernize an old JavaScript project.
 
@@ -104,7 +104,7 @@
 
 </br> 
 
-15. Modules
+14. Modules
 
 • Project: Create a modular application.
 
@@ -112,7 +112,7 @@
 
 </br>
 
-18. Canvas API
+15. Canvas API
 
 • Project: Develop a simple drawing application.
 
@@ -120,7 +120,7 @@
 
 </br> 
 
-19. Regular Expressions
+16. Regular Expressions
 
 • Project: Build a password strength checker.
 
@@ -128,7 +128,7 @@
 
 </br> 
 
-20. Event Bubbling and Delegation
+17. Event Bubbling and Delegation
     
 • Project: Implement a dynamic menu.
 
@@ -136,7 +136,7 @@
 
 </br> 
 
-21. Timers (setTimeout, setInterval)
+18. Timers (setTimeout, setInterval)
 
 • Project: Create a game of whack-a-mole.
 
@@ -144,7 +144,7 @@
 
 </br> 
 
-22. Geolocation API
+19. Geolocation API
 
 • Project: Build a location-based weather app.
 
@@ -152,7 +152,7 @@
 
 </br> 
 
-23. Web Storage (localStorage and sessionStorage)
+20. Web Storage (localStorage and sessionStorage)
 
 • Project: Create a preferences manager.
 
@@ -160,15 +160,15 @@
 
 </br> 
 
-24. AJAX
-25. 
+21. AJAX
+ 
 • Project: Develop a live search feature.
 
 • Description: Use AJAX to fetch and display search results dynamically as the user types.
 
 </br> 
 
-25. Fetch API
+22. Fetch API
 
 • Project: Build a movie search application.
 
@@ -176,22 +176,29 @@
 
 </br> 
 
-44. Service Workers
+23. Service Workers
 
 • Project: Create a simple PWA (Progressive Web App).
 
 • Description: Implement a service worker to cache assets and make the app work offline.
 </br> 
-46. WebSockets
+
+24. WebSockets
 
 • Project: Develop a real-time chat application.
 
 • Description: Use WebSockets for bi-directional communication between the client and server.
+
 </br> 
-48. Custom Elements
+
+25. Custom Elements
+26. 
 • Project: Create reusable UI components.
+
 • Description: Build custom HTML elements like a star rating component.
+
 </br> 
+
 49. Shadow DOM
 • Project: Implement a custom modal dialog.
 • Description: Use the Shadow DOM to encapsulate styles and markup for the modal.
