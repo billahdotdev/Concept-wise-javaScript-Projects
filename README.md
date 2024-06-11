@@ -44,4 +44,8 @@
     • Project: Develop a note-taking application.
     • Description: Save notes to local storage and retrieve them on page load.
 
+11. Async Programming (Promises, async/await)
+    • Project: Fetch and display data from an API.
+    • Description: Use the Fetch API to retrieve data and display it on the webpage.
+
 
