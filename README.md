@@ -29,116 +29,154 @@
 • Project: Create a countdown timer.
 
 • Description: Implement a timer that counts down from a specified number of seconds.
+
 </br> 
-9. Arrays
+
+5. Arrays
 
 • Project: Build a to-do list.
 
 • Description: Use an array to store tasks and display them on the webpage.
 
 </br> 
-12. Objects
+
+6. Objects
 
 • Project: Create a contact management system.
 
 • Description: Store and manage contacts with properties like name, email, and phone number.
+
 </br> 
-14. DOM Manipulation
+
+7. DOM Manipulation
+ 
 • Project: Develop a dynamic shopping list.
+
 • Description: Allow users to add, edit, and delete items from the list.
+
 </br> 
-15. Events
+
+8. Events
 
 • Project: Create an interactive photo gallery.
 
 • Description: Use events to handle clicks and display larger versions of thumbnails.
+
 </br> 
 
-17. Forms and Validation
+9. Forms and Validation
 
 • Project: Build a user registration form.
 
 • Description: Validate user inputs like email, password, and confirm password.
+
 </br> 
-19. Local Storage
+
+10. Local Storage
 
 • Project: Develop a note-taking application.
 
 • Description: Save notes to local storage and retrieve them on page load.
+
 </br> 
-21. Async Programming (Promises, async/await)
+
+11. Async Programming (Promises, async/await)
 
 • Project: Fetch and display data from an API.
 
 • Description: Use the Fetch API to retrieve data and display it on the webpage.
+
 </br> 
-23. Error Handling
+
+13. Error Handling
 
 • Project: Implement a robust form submission.
 
 • Description: Add try-catch blocks to handle errors during form submission.
-</br> 
-25. ES6 Features (Arrow Functions, Template Literals, etc.)
 
+</br> 
+
+14. ES6 Features (Arrow Functions, Template Literals, etc.)
 
 • Project: Modernize an old JavaScript project.
 
 • Description: Refactor an existing project to use ES6 features.
-</br> 
-27. Modules
-• Project: Create a modular application.
-• Description: Break a larger project into smaller, manageable modules.   
-</br> 
-28. Canvas API
 
+</br> 
+
+15. Modules
+
+• Project: Create a modular application.
+
+• Description: Break a larger project into smaller, manageable modules.   
+
+</br>
+
+18. Canvas API
 
 • Project: Develop a simple drawing application.
 
 • Description: Allow users to draw on a canvas with different colors and brush sizes.
+
 </br> 
 
-30. Regular Expressions
-
+19. Regular Expressions
 
 • Project: Build a password strength checker.
 
 • Description: Use regular expressions to validate password strength based on various criteria.
+
 </br> 
-32. Event Bubbling and Delegation
+
+20. Event Bubbling and Delegation
+    
 • Project: Implement a dynamic menu.
+
 • Description: Use event delegation to handle menu interactions efficiently.
+
 </br> 
-33. Timers (setTimeout, setInterval)
+
+21. Timers (setTimeout, setInterval)
 
 • Project: Create a game of whack-a-mole.
 
 • Description: Use timers to show and hide moles at random intervals.
+
 </br> 
-35. Geolocation API
+
+22. Geolocation API
 
 • Project: Build a location-based weather app.
 
 • Description: Get the user's location and display weather information for that location.
+
 </br> 
-38. Web Storage (localStorage and sessionStorage)
+
+23. Web Storage (localStorage and sessionStorage)
 
 • Project: Create a preferences manager.
 
 • Description: Allow users to save their preferences (e.g., theme, font size) and persist them using web storage.
+
 </br> 
-40. AJAX
+
+24. AJAX
+25. 
 • Project: Develop a live search feature.
 
 • Description: Use AJAX to fetch and display search results dynamically as the user types.
+
 </br> 
-42. Fetch API
+
+25. Fetch API
 
 • Project: Build a movie search application.
 
 • Description: Fetch data from a movie API based on user input and display the results.
-</br> 
-44. Service Workers
 
+</br> 
+
+44. Service Workers
 
 • Project: Create a simple PWA (Progressive Web App).
 
