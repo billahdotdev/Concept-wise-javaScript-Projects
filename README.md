@@ -13,12 +13,11 @@
 
 • Description: Implement functions for addition, subtraction, multiplication, and division.
    </br> 
-
 3. Control Structures
-   
-    • Project: Develop a basic quiz application.
-   
-    • Description: Use if statements to evaluate user answers and display the score.
+
+ • Project: Develop a basic quiz application.
+
+ • Description: Use if statements to evaluate user answers and display the score.
 
   </br> 
 7. Loops
