@@ -31,5 +31,9 @@
     • Project: Develop a dynamic shopping list.
     • Description: Allow users to add, edit, and delete items from the list.
 
+8. Events
+    • Project: Create an interactive photo gallery.
+    • Description: Use events to handle clicks and display larger versions of thumbnails.
+
 
 
