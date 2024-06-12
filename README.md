@@ -1,5 +1,5 @@
 # concept wise JavaScript Projects       
-
+ 
 1. Variables and Data Types
 
 • Project: Create a simple tip calculator.
