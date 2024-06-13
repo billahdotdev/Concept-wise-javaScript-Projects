@@ -253,3 +253,5 @@
 • Project: Convert a JavaScript project to TypeScript.
 
 • Description: Add type definitions and refactor code to use TypeScript features.
+
+(I'll upload projects code soon ....)
