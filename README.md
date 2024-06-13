@@ -8,7 +8,7 @@
 
 </br>  
 
-2. Functions
+2. Functions  
 
 • Project: Build a basic math operations application.
 
