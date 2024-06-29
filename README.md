@@ -254,4 +254,4 @@
 
 • Description: Add type definitions and refactor code to use TypeScript features.
 
-(I'll upload Projects code soon ....)                     
+(I'll upload projects code soon ....)                     
