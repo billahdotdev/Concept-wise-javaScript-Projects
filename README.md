@@ -228,7 +228,7 @@
 
 • Project: Create a custom form input element.
 
-• Description: Build a custom input component that can be reused across different forms.
+• Description: Build a custom input component that can be reused across different forms.  
 
 </br> 
 
