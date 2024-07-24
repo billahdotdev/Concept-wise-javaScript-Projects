@@ -3,9 +3,9 @@
  
 1. Variables and Data Types
 
-• Project: Create a simple tip calculator.
+• Project: Service Charge Calculator.
 
-• Description: Input the bill amount, tip percentage, and calculate the total bill.                 
+• Description: Input Service Charge amount, tip percentage, and calculate the total Service Charge.                 
 
 </br>  
 
