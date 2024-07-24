@@ -3,7 +3,7 @@
  
 1. Variables and Data Types
 
-## Concepts Covered:
+Concepts Covered:
 
 Variables
 Data Types (Number, String)
