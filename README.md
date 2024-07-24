@@ -5,15 +5,15 @@
 
 Concepts Covered:
 
-Variables
-Data Types (Number, String)
-Basic Arithmetic Operations
-User Input
-Output to the User
-
-• [Project:Service Charge Calculator.](https://github.com/BillahDotDev/Concept-wise-javaScript-Projects/tree/main/Variables%20and%20Data%20Types)
-
-• Description: Input Service Charge amount, tip percentage, and calculate the total Service Charge.                 
+  Variables
+  Data Types (Number, String)
+  Basic Arithmetic Operations
+  User Input
+  Output to the User
+  
+  • [Project:Service Charge Calculator.](https://github.com/BillahDotDev/Concept-wise-javaScript-Projects/tree/main/Variables%20and%20Data%20Types)
+  
+  • Description: Input Service Charge amount, tip percentage, and calculate the total Service Charge.                 
 
 </br>  
 
