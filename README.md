@@ -3,7 +3,7 @@
  
 1. Variables and Data Types
 
-• Project: Service Charge Calculator.
+• [Project:](Service Charge Calculator.)
 
 • Description: Input Service Charge amount, tip percentage, and calculate the total Service Charge.                 
 
