@@ -1,4 +1,12 @@
-# concept wise JavaScript Projects          
+# concept wise JavaScript Projects 
+
+## Concepts Covered:
+
+Variables
+Data Types (Number, String)
+Basic Arithmetic Operations
+User Input
+Output to the User
 
  
 1. Variables and Data Types
