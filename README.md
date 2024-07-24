@@ -1,15 +1,15 @@
 # concept wise JavaScript Projects 
 
-## Concepts Covered:
-
-Variables
-Data Types (Number, String)
-Basic Arithmetic Operations
-User Input
-Output to the User
-
  
 1. Variables and Data Types
+
+## Concepts Covered:
+
+    Variables
+    Data Types (Number, String)
+    Basic Arithmetic Operations
+    User Input
+    Output to the User
 
 • [Project:Service Charge Calculator.](https://github.com/BillahDotDev/Concept-wise-javaScript-Projects/tree/main/Variables%20and%20Data%20Types)
 
