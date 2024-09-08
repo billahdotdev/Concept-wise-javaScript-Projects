@@ -1,5 +1,4 @@
-                                                                                                                                                                                                                                                                
-                                                                                                                                                                                                                       
+                                                 
 # concept wise JavaScript Projects          
 
  
