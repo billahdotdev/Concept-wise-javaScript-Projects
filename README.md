@@ -1,8 +1,6 @@
-                                                                               
 # concept wise JavaScript Projects          
 
- 
-# 1. Service Charge Calculator with Variables and Data Types              
+# 1. Variables and Data Types (Service Charge Calculator)              
  
  
    • [Project:Service Charge Calculator.](https://github.com/BillahDotDev/Concept-wise-javaScript-Projects/tree/main/Variables%20and%20Data%20Types)
