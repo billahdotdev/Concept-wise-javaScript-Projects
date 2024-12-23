@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Quiz Application</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 20px;
+      padding: 0;
+      background-color: #f9f9f9;
+    }
+    .question-container {
+      margin-bottom: 20px;
+    }
+    .options {
+      list-style-type: none;
+      padding: 0;
+    }
+    .options li {
+      margin: 5px 0;
+    }
+    button {
+      padding: 10px 20px;
+      background-color: teal;
+      color: white;
+      border: none;
+      cursor: pointer;
+      font-size: 16px;
+    }
+    button:hover {
+      background-color: darkcyan;
+    }
+    .score {
+      font-size: 18px;
+      margin-top: 20px;
+    }
+  </style>
+</head>
+<body>
+  <h1>Basic Quiz Application</h1>
+  <div id="quiz-container">
+    <div id="question-section">
+      <div class="question-container">
+        <p id="question"></p>
+        <ul class="options" id="options"></ul>
+      </div>
+      <button id="submit-btn">Submit Answer</button>
+    </div>
+    <div id="result-section" style="display: none;">
+      <p class="score" id="score"></p>
+      <button id="restart-btn">Restart Quiz</button>
+    </div>
+  </div>
+
+  <script>
+   
+  </script>
+</body>
+</html>
