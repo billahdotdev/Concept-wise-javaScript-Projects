@@ -21,13 +21,14 @@ Learning Goals:
 ### 2. Math Operations App
 Concepts: Functions, Parameters, Return Values
 Description: Create functions to add, subtract, multiply, and divide numbers.
+
 Learning Goals:
 
-Create and use functions
+> Create and use functions
 
-Accept parameters and return results
+> Accept parameters and return results
 
-Organize logic into blocks
+> Organize logic into blocks
 <br />
 
 ### 3. Simple Quiz App
