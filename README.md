@@ -16,6 +16,7 @@ Learning Goals:
 > Perform arithmetic operations
 
 > Use prompt() and alert()
+<br />
 
 ### 2. Math Operations App
 Concepts: Functions, Parameters, Return Values
