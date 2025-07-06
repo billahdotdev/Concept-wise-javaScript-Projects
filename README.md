@@ -445,7 +445,7 @@ Concepts: Testing (Jest, Mocha)
 
 Description: Write unit and integration tests for a project.
 
-<u>*Learning Goals:*< /u>
+<u>*Learning Goals:*</u>
 
 >Use describe, it, and expect
 
