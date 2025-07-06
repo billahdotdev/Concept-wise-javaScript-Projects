@@ -10,9 +10,13 @@ Description: Enter the amount and tip %, and see the total cost.
 
 Learning Goals:
 > Use let, const
+
 > Handle number and string input
+
 > Perform arithmetic operations
+
 > Use prompt() and alert()
+
 <br />
 
 ### 2. Math Operations App
