@@ -9,6 +9,7 @@ Concepts: Variables, Data Types, Basic Arithmetic, User Input, Output
 Description: Enter the amount and tip %, and see the total cost.
 
 Learning Goals:
+
 > Use let, const
 
 > Handle number and string input
@@ -38,11 +39,12 @@ Description: Ask multiple-choice questions and calculate the score.
 
 Learning Goals:
 
-Use if, else, ===, ==
+> Use if, else, ===, ==
 
-Compare answers
+> Compare answers
 
-Track and display score
+> Track and display score
+
 <br />
 
 ### 4. Countdown Timer
