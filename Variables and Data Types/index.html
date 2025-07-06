@@ -1,21 +1,19 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Service Charge Calculator</title>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Age Calculator</title>
+  <link rel="stylesheet" href="style.css" />
 </head>
 <body>
-    <h1>Service Charge Calculator</h1>
-    <label for="billAmount">Bill Amount ($):</label>
-    <input type="number" id="billAmount" placeholder="Enter bill amount">
-    <br><br>
-    <label for="chargePercentage">Service Charge Percentage (%):</label>
-    <input type="number" id="chargePercentage" placeholder="Enter service charge percentage">
-    <br><br>
-    <button onclick="calculateCharge()">Calculate Service Charge</button>
-    <h2 id="result"></h2>
+  <div class="container">
+    <h1>Age Calculator</h1>
+    <input type="number" id="birthYear" placeholder="Enter your birth year" />
+    <button onclick="calculateAge()">Calculate Age</button>
+    <p id="result"></p>
+  </div>
 
-    <script src="script.js"></script>
+  <script src="script.js"></script>
 </body>
 </html>
