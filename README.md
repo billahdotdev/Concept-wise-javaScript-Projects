@@ -78,13 +78,14 @@ Learning Goals:
 ### 6. Contact Book
 Concepts: Objects, Properties, Methods
 Description: Store and manage contacts with name, email, and phone.
+
 Learning Goals:
 
-Create and access object properties
+>Create and access object properties
 
-Store multiple contacts in an array
+>Store multiple contacts in an array
 
-Use methods to update data
+>Use methods to update data
 
 
 # *Intermediate Level*
@@ -92,101 +93,102 @@ Use methods to update data
 ### 7. Dynamic Shopping List
 Concepts: DOM Manipulation
 Description: Add and remove items from a shopping list dynamically.
+
 Learning Goals:
 
-Access and modify DOM elements
+>Access and modify DOM elements
 
-Create, append, and remove HTML elements
+>Create, append, and remove HTML elements
 
-Use innerHTML and classList
+>Use innerHTML and classList
 
 ### 8. Interactive Image Gallery
 Concepts: Events
 Description: Show a full-size image when a thumbnail is clicked.
 Learning Goals:
 
-Add event listeners
+>Add event listeners
 
-Use event.target
+>Use event.target
 
-Update DOM based on interaction
+>Update DOM based on interaction
 
 ### 9. Signup Form with Validation
 Concepts: Forms, Validation, Regular Expressions
 Description: Validate email and password fields on form submit.
 Learning Goals:
 
-Handle form submit events
+>Handle form submit events
 
-Prevent default form behavior
+>Prevent default form behavior
 
-Use regex to validate input
+>Use regex to validate input
 
 ### 10. Notes App with Local Storage
 Concepts: localStorage, JSON
 Description: Save and retrieve notes that persist across reloads.
 Learning Goals:
 
-Use localStorage setItem and getItem
+>Use localStorage setItem and getItem
 
-Convert objects with JSON.stringify and parse
+>Convert objects with JSON.stringify and parse
 
-Build a persistent UI
+>Build a persistent UI
 
 ### 11. Pomodoro Timer
 Concepts: Timers (setInterval, setTimeout)
 Description: A countdown timer with start, pause, and reset functionality.
 Learning Goals:
 
-Use setInterval and clearInterval
+>Use setInterval and clearInterval
 
-Handle user interactions
+>Handle user interactions
 
-Format and display time
+>Format and display time
 
 ### 12. Fetch Random User
 Concepts: Fetch API, Promises
 Description: Fetch and display user data from an external API.
 Learning Goals:
 
-Use fetch and then
+>Use fetch and then
 
-Parse and use JSON data
+>Parse and use JSON data
 
-Update UI with API results
+>Update UI with API results
 
 ### 13. Safe API Fetch
 Concepts: Error Handling (try, catch)
 Description: Gracefully handle errors while calling an API.
 Learning Goals:
 
-Use try, catch, finally
+>Use try, catch, finally
 
-Handle fetch failures
+>Handle fetch failures
 
-Show error messages to users
+>Show error messages to users
 
 ### 14. Refactor To-Do List with ES6
 Concepts: Arrow Functions, let/const, Template Literals
 Description: Update an old app to modern ES6 syntax.
 Learning Goals:
 
-Replace var with let/const
+>Replace var with let/const
 
-Use arrow functions
+>Use arrow functions
 
-Use template literals for string formatting
+>Use template literals for string formatting
 
 ### 15. Budget Tracker with Modules
 Concepts: JavaScript Modules
 Description: Create a budget app with separate modules for logic, UI, and data.
 Learning Goals:
 
-Use export and import
+>Use export and import
 
-Organize code by responsibility
+>Organize code by responsibility
 
-Build scalable structure
+>Build scalable structure
 
 
 # *Advanced Level*
@@ -194,57 +196,58 @@ Build scalable structure
 ### 16. Drawing App with Canvas
 Concepts: Canvas API
 Description: Draw with your mouse on a canvas area with color options.
+
 Learning Goals:
 
-Use getContext('2d')
+>Use getContext('2d')
 
-Handle mouse events
+>Handle mouse events
 
-Create dynamic drawing tools
+>Create dynamic drawing tools
 
 ### 17. Password Strength Checker
 Concepts: Regular Expressions
 Description: Check if a password meets complexity requirements.
 Learning Goals:
 
-Use RegExp and test()
+>Use RegExp and test()
 
-Validate multiple rules
+>Validate multiple rules
 
-Give real-time feedback
+>Give real-time feedback
 
 ### 18. FAQ Accordion
 Concepts: Event Delegation
 Description: Toggle visibility of answers when clicking on a question.
 Learning Goals:
 
-Use one event handler for multiple elements
+>Use one event handler for multiple elements
 
-Use event.target
+>Use event.target
 
-Manipulate classes
+>Manipulate classes
 
 ### 19. Weather App with Geolocation
 Concepts: Geolocation API, Fetch
 Description: Get user’s current location and show weather data.
 Learning Goals:
 
-Use geolocation.getCurrentPosition
+>Use geolocation.getCurrentPosition
 
-Fetch API data using coordinates
+>Fetch API data using coordinates
 
-Update UI with location-based info
+>Update UI with location-based info
 
 ### 20. Live Search
 Concepts: AJAX (XMLHttpRequest)
 Description: Show search results while typing in the input field.
 Learning Goals:
 
-Use XMLHttpRequest
+>Use XMLHttpRequest
 
-Handle response dynamically
+>Handle response dynamically
 
-Build autocomplete-style UI
+>Build autocomplete-style UI
 
 ### 21. Real-Time Chat
 Concepts: WebSockets
