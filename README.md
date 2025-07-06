@@ -254,107 +254,107 @@ Concepts: WebSockets
 Description: Send and receive chat messages in real time.
 Learning Goals:
 
-Connect using WebSocket
+>Connect using WebSocket
 
-Send and receive data
+>Send and receive data
 
-Update chat UI instantly
+>Update chat UI instantly
 
 ### 22. Theme Toggle with Web Storage
 Concepts: localStorage, sessionStorage
 Description: Switch between light and dark modes and save preference.
 Learning Goals:
 
-Store user preference
+>Store user preference
 
-Apply stored theme on load
+>Apply stored theme on load
 
-Create accessible UI
+>Create accessible UI
 
 ### 23. Offline Notes with Service Worker
 Concepts: Service Worker, Caching
 Description: Make a notes app work without internet access.
 Learning Goals:
 
-Register and install service worker
+>Register and install service worker
 
-Cache static assets
+>Cache static assets
 
-Serve content offline
+>Serve content offline
 
 ### 24. Star Rating Component
 Concepts: Custom Elements
 Description: Create a reusable star rating UI using web components.
 Learning Goals:
 
-Define custom HTML elements
+>Define custom HTML elements
 
-Add interactive behavior
+>Add interactive behavior
 
-Reuse across projects
+>Reuse across projects
 
 ### 25. Modal Dialog with Shadow DOM
 Concepts: Shadow DOM
 Description: Build a modal dialog with encapsulated styles and logic.
 Learning Goals:
 
-Use attachShadow
+>Use attachShadow
 
-Style components without affecting global styles
+>Style components without affecting global styles
 
-Improve code modularity
+>Improve code modularity
 
 ### 26. Drag and Drop Task Organizer
 Concepts: Drag and Drop API
 Description: Drag tasks between multiple categories or boards.
 Learning Goals:
 
-Use dragstart, dragover, drop events
+>Use dragstart, dragover, drop events
 
-Create draggable elements
+>Create draggable elements
 
-Update data on drop
+>Update data on drop
 
 ### 27. Offline Task Manager with IndexedDB
 Concepts: IndexedDB
 Description: Store and manage tasks without server or internet.
 Learning Goals:
 
-Open and create database
+>Open and create database
 
-Store and retrieve records
+>Store and retrieve records
 
-Build fully offline-capable app
+>Build fully offline-capable app
 
 ### 28. Reusable Form Input
 Concepts: Web Components
 Description: Build a custom input field for forms with validation.
 Learning Goals:
 
-Create reusable form elements
+>Create reusable form elements
 
-Define properties and events
+>Define properties and events
 
-Validate input internally
+>Validate input internally
 
 ### 29. Webpack + Babel Setup
 Concepts: Tooling (Webpack, Babel)
 Description: Set up a modern development environment for JS.
 Learning Goals:
 
-Create webpack.config.js
+>Create webpack.config.js
 
-Use Babel to transpile ES6+ code
+>Use Babel to transpile ES6+ code
 
-Organize source files
+>Organize source files
 
 ### 30. Test a JavaScript App
 Concepts: Testing (Jest, Mocha)
 Description: Write unit and integration tests for a project.
 Learning Goals:
 
-Use describe, it, and expect
+>Use describe, it, and expect
 
-Test pure functions
+>Test pure functions
 
-Increase app reliability
+>Increase app reliability
