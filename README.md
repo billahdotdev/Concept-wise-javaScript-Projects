@@ -103,9 +103,13 @@ Learning Goals:
 >Use innerHTML and classList
 
 ### 8. Interactive Image Gallery
+
 Concepts: Events
+
 Description: Show a full-size image when a thumbnail is clicked.
+
 Learning Goals:
+
 
 >Add event listeners
 
