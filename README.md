@@ -50,13 +50,15 @@ Learning Goals:
 ### 4. Countdown Timer
 Concepts: Loops, setInterval
 Description: Enter a number and count down to zero.
+
 Learning Goals:
 
-Use for and while loops
+> Use for and while loops
 
-Create and clear intervals
+> Create and clear intervals
 
-Update output over time
+>Update output over time
+
 <br />
 
 ### 5. Console To-Do List
