@@ -1,4 +1,4 @@
-# concept wise JavaScript Projects            
+# 30 JavaScript Projects by Concept – From Basics to Advanced (concept wise JavaScript Projects)            
 
 # 1. Variables and Data Types (Service Charge Calculator)              
  
