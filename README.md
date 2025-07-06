@@ -28,6 +28,7 @@ Create and use functions
 Accept parameters and return results
 
 Organize logic into blocks
+<br />
 
 ### 3. Simple Quiz App
 Concepts: Conditionals (if/else)
@@ -39,6 +40,7 @@ Use if, else, ===, ==
 Compare answers
 
 Track and display score
+<br />
 
 ### 4. Countdown Timer
 Concepts: Loops, setInterval
@@ -50,6 +52,7 @@ Use for and while loops
 Create and clear intervals
 
 Update output over time
+<br />
 
 ### 5. Console To-Do List
 Concepts: Arrays, Array Methods
@@ -61,6 +64,7 @@ Store data using arrays
 Use push(), splice(), forEach()
 
 Handle basic task management
+<br />
 
 ### 6. Contact Book
 Concepts: Objects, Properties, Methods
