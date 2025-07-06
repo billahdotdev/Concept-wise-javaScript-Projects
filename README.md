@@ -1,17 +1,17 @@
 # JavaScript concept wise projects
 
-1. Variables and Data Types
-Project: Age Calculator
+## 1. Variables and Data Types
+### Project: Age Calculator
 Description: Input your birth year and output your current age
 Concepts Covered: let, const, numbers, strings, type conversion
 
-2. Operators and Conditionals
-Project: Grade Calculator
+## 2. Operators and Conditionals
+### Project: Grade Calculator
 Description: Enter a score to determine the corresponding grade (A/B/C...)
 Concepts Covered: if, else if, comparison operators, logical operators
 
-3. Loops
-Project: Multiplication Table Generator
+## 3. Loops
+### Project: Multiplication Table Generator
 Description: Enter a number to generate its multiplication table from 1 to 10
 Concepts Covered: for loop, while loop, loop logic, string building
 
