@@ -9,13 +9,13 @@ Concepts: Variables, Data Types, Basic Arithmetic, User Input, Output
 Description: Enter the amount and tip %, and see the total cost.
 Learning Goals:
 
-Use let, const
+> Use let, const
 
-Handle number and string input
+> Handle number and string input
 
-Perform arithmetic operations
+> Perform arithmetic operations
 
-Use prompt() and alert()
+> Use prompt() and alert()
 
 ### 2. Math Operations App
 Concepts: Functions, Parameters, Return Values
