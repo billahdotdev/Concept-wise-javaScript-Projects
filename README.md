@@ -83,7 +83,7 @@ Use methods to update data
 
 # *Intermediate Level*
 
-7. Dynamic Shopping List
+### 7. Dynamic Shopping List
 Concepts: DOM Manipulation
 Description: Add and remove items from a shopping list dynamically.
 Learning Goals:
@@ -94,7 +94,7 @@ Create, append, and remove HTML elements
 
 Use innerHTML and classList
 
-8. Interactive Image Gallery
+### 8. Interactive Image Gallery
 Concepts: Events
 Description: Show a full-size image when a thumbnail is clicked.
 Learning Goals:
@@ -105,7 +105,7 @@ Use event.target
 
 Update DOM based on interaction
 
-9. Signup Form with Validation
+### 9. Signup Form with Validation
 Concepts: Forms, Validation, Regular Expressions
 Description: Validate email and password fields on form submit.
 Learning Goals:
@@ -116,7 +116,7 @@ Prevent default form behavior
 
 Use regex to validate input
 
-10. Notes App with Local Storage
+### 10. Notes App with Local Storage
 Concepts: localStorage, JSON
 Description: Save and retrieve notes that persist across reloads.
 Learning Goals:
@@ -127,7 +127,7 @@ Convert objects with JSON.stringify and parse
 
 Build a persistent UI
 
-11. Pomodoro Timer
+### 11. Pomodoro Timer
 Concepts: Timers (setInterval, setTimeout)
 Description: A countdown timer with start, pause, and reset functionality.
 Learning Goals:
@@ -138,7 +138,7 @@ Handle user interactions
 
 Format and display time
 
-12. Fetch Random User
+### 12. Fetch Random User
 Concepts: Fetch API, Promises
 Description: Fetch and display user data from an external API.
 Learning Goals:
@@ -149,7 +149,7 @@ Parse and use JSON data
 
 Update UI with API results
 
-13. Safe API Fetch
+### 13. Safe API Fetch
 Concepts: Error Handling (try, catch)
 Description: Gracefully handle errors while calling an API.
 Learning Goals:
@@ -160,7 +160,7 @@ Handle fetch failures
 
 Show error messages to users
 
-14. Refactor To-Do List with ES6
+### 14. Refactor To-Do List with ES6
 Concepts: Arrow Functions, let/const, Template Literals
 Description: Update an old app to modern ES6 syntax.
 Learning Goals:
@@ -171,7 +171,7 @@ Use arrow functions
 
 Use template literals for string formatting
 
-15. Budget Tracker with Modules
+### 15. Budget Tracker with Modules
 Concepts: JavaScript Modules
 Description: Create a budget app with separate modules for logic, UI, and data.
 Learning Goals:
@@ -185,7 +185,7 @@ Build scalable structure
 
 # *Advanced Level*
 
-16. Drawing App with Canvas
+### 16. Drawing App with Canvas
 Concepts: Canvas API
 Description: Draw with your mouse on a canvas area with color options.
 Learning Goals:
@@ -196,7 +196,7 @@ Handle mouse events
 
 Create dynamic drawing tools
 
-17. Password Strength Checker
+### 17. Password Strength Checker
 Concepts: Regular Expressions
 Description: Check if a password meets complexity requirements.
 Learning Goals:
@@ -207,7 +207,7 @@ Validate multiple rules
 
 Give real-time feedback
 
-18. FAQ Accordion
+### 18. FAQ Accordion
 Concepts: Event Delegation
 Description: Toggle visibility of answers when clicking on a question.
 Learning Goals:
@@ -218,7 +218,7 @@ Use event.target
 
 Manipulate classes
 
-19. Weather App with Geolocation
+### 19. Weather App with Geolocation
 Concepts: Geolocation API, Fetch
 Description: Get user’s current location and show weather data.
 Learning Goals:
@@ -229,7 +229,7 @@ Fetch API data using coordinates
 
 Update UI with location-based info
 
-20. Live Search
+### 20. Live Search
 Concepts: AJAX (XMLHttpRequest)
 Description: Show search results while typing in the input field.
 Learning Goals:
@@ -240,7 +240,7 @@ Handle response dynamically
 
 Build autocomplete-style UI
 
-21. Real-Time Chat
+### 21. Real-Time Chat
 Concepts: WebSockets
 Description: Send and receive chat messages in real time.
 Learning Goals:
@@ -251,7 +251,7 @@ Send and receive data
 
 Update chat UI instantly
 
-22. Theme Toggle with Web Storage
+### 22. Theme Toggle with Web Storage
 Concepts: localStorage, sessionStorage
 Description: Switch between light and dark modes and save preference.
 Learning Goals:
@@ -262,7 +262,7 @@ Apply stored theme on load
 
 Create accessible UI
 
-23. Offline Notes with Service Worker
+### 23. Offline Notes with Service Worker
 Concepts: Service Worker, Caching
 Description: Make a notes app work without internet access.
 Learning Goals:
@@ -273,7 +273,7 @@ Cache static assets
 
 Serve content offline
 
-24. Star Rating Component
+### 24. Star Rating Component
 Concepts: Custom Elements
 Description: Create a reusable star rating UI using web components.
 Learning Goals:
@@ -284,7 +284,7 @@ Add interactive behavior
 
 Reuse across projects
 
-25. Modal Dialog with Shadow DOM
+### 25. Modal Dialog with Shadow DOM
 Concepts: Shadow DOM
 Description: Build a modal dialog with encapsulated styles and logic.
 Learning Goals:
@@ -295,7 +295,7 @@ Style components without affecting global styles
 
 Improve code modularity
 
-26. Drag and Drop Task Organizer
+### 26. Drag and Drop Task Organizer
 Concepts: Drag and Drop API
 Description: Drag tasks between multiple categories or boards.
 Learning Goals:
@@ -306,7 +306,7 @@ Create draggable elements
 
 Update data on drop
 
-27. Offline Task Manager with IndexedDB
+### 27. Offline Task Manager with IndexedDB
 Concepts: IndexedDB
 Description: Store and manage tasks without server or internet.
 Learning Goals:
@@ -317,7 +317,7 @@ Store and retrieve records
 
 Build fully offline-capable app
 
-28. Reusable Form Input
+### 28. Reusable Form Input
 Concepts: Web Components
 Description: Build a custom input field for forms with validation.
 Learning Goals:
@@ -328,7 +328,7 @@ Define properties and events
 
 Validate input internally
 
-29. Webpack + Babel Setup
+### 29. Webpack + Babel Setup
 Concepts: Tooling (Webpack, Babel)
 Description: Set up a modern development environment for JS.
 Learning Goals:
@@ -339,7 +339,7 @@ Use Babel to transpile ES6+ code
 
 Organize source files
 
-30. Test a JavaScript App
+### 30. Test a JavaScript App
 Concepts: Testing (Jest, Mocha)
 Description: Write unit and integration tests for a project.
 Learning Goals:
