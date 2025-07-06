@@ -64,13 +64,15 @@ Learning Goals:
 ### 5. Console To-Do List
 Concepts: Arrays, Array Methods
 Description: Add, remove, and view tasks in the console.
+
 Learning Goals:
 
-Store data using arrays
+>Store data using arrays
 
-Use push(), splice(), forEach()
+>Use push(), splice(), forEach()
 
-Handle basic task management
+>Handle basic task management
+
 <br />
 
 ### 6. Contact Book
