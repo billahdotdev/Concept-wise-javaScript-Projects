@@ -7,14 +7,11 @@
 ### 1. Service Charge Calculator
 Concepts: Variables, Data Types, Basic Arithmetic, User Input, Output
 Description: Enter the amount and tip %, and see the total cost.
+
 Learning Goals:
-
 > Use let, const
-
 > Handle number and string input
-
 > Perform arithmetic operations
-
 > Use prompt() and alert()
 <br />
 
@@ -34,6 +31,7 @@ Learning Goals:
 ### 3. Simple Quiz App
 Concepts: Conditionals (if/else)
 Description: Ask multiple-choice questions and calculate the score.
+
 Learning Goals:
 
 Use if, else, ===, ==
