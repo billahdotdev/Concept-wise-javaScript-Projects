@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Even or Odd Number Filter</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="container">
+      <h1>Even or Odd Filter</h1>
+      <input
+        type="text"
+        id="numberInput"
+        placeholder="Enter numbers separated by commas"
+      />
+      <div class="buttons">
+        <button onclick="filterNumbers('even')">Show Even</button>
+        <button onclick="filterNumbers('odd')">Show Odd</button>
+      </div>
+      <p id="resultOutput"></p>
+    </div>
+    <script src="script.js"></script>
+  </body>
+</html>
