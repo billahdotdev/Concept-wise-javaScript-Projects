@@ -27,6 +27,7 @@ Concepts Covered: Function declaration, parameters, return values
 ## 5. Arrays
 ### Project: Even or Odd Number Filter
 Description: Input an array of numbers and output only even or odd numbers
+
 Concepts Covered: Arrays, push, filter, forEach
 
 6. Objects
