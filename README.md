@@ -15,7 +15,7 @@ Concepts Covered: if, else if, comparison operators, logical operators
 Description: Enter a number to generate its multiplication table from 1 to 10
 Concepts Covered: for loop, while loop, loop logic, string building
 
-4. Functions
+## 4. Functions
 Project: Tip Calculator
 Description: Enter bill amount and tip percentage to calculate total cost
 Concepts Covered: Function declaration, parameters, return values
