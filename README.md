@@ -9,6 +9,7 @@ Concepts Covered: let, const, numbers, strings, type conversion
 ## 2. Operators and Conditionals
 ### Project: Grade Calculator
 Description: Enter a score to determine the corresponding grade (A/B/C...)
+
 Concepts Covered: if, else if, comparison operators, logical operators
 
 ## 3. Loops
