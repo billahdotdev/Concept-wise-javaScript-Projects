@@ -31,7 +31,7 @@ Description: Input an array of numbers and output only even or odd numbers
 Concepts Covered: Arrays, push, filter, forEach
 
 ## 6. Objects
-Project: Student Information Viewer
+### Project: Student Information Viewer
 Description: Store and display student details such as name, age, and course
 Concepts Covered: Object literals, accessing and modifying object properties
 
