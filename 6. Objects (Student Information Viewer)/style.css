@@ -1,0 +1,35 @@
+body {
+  font-family: sans-serif;
+  background: #f0f0f0;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.container {
+  background: white;
+  padding: 2rem;
+  border-radius: 8px;
+  width: 320px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  text-align: center;
+}
+
+input {
+  display: block;
+  width: 100%;
+  padding: 0.5rem;
+  margin-bottom: 1rem;
+}
+
+button {
+  padding: 0.5rem 1rem;
+  cursor: pointer;
+}
+
+#studentDisplay {
+  margin-top: 1rem;
+  font-weight: bold;
+  text-align: left;
+}
