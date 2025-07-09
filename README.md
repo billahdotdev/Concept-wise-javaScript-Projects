@@ -37,7 +37,7 @@ Description: Store and display student details such as name, age, and course
 Concepts Covered: Object literals, accessing and modifying object properties
 
 ## 7. Arrays of Objects
-Project: Book List Application
+### Project: Book List Application
 Description: Add, delete, and search books from a list (title and author)
 Concepts Covered: Array of objects, map, find, CRUD operations
 
