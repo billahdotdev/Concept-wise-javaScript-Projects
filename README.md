@@ -66,7 +66,7 @@ Description: Click a button to change the background color randomly
 
 Concepts Covered: querySelector, style manipulation, innerText
 
-12. Higher-Order Functions
+## 12. Higher-Order Functions
 Project: Expense Calculator
 Description: Enter expenses and calculate total using array methods
 Concepts Covered: reduce, map, filter
