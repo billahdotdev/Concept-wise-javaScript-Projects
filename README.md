@@ -55,7 +55,7 @@ Description: Display a real-time updating clock in the browser
 Concepts Covered: Date object, getHours, getMinutes, setInterval
 
 ## 10. Math and Numbers
-Project: Random Dice Roller
+### Project: Random Dice Roller
 Description: Simulate rolling a dice and display a number between 1 and 6
 Concepts Covered: Math.random, Math.floor
 
