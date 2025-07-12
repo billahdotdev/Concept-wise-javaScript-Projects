@@ -48,7 +48,7 @@ Description: Count the number of words and characters in a given input
 
 Concepts Covered: split, trim, length, toLowerCase
 
-9. Date and Time
+## 9. Date and Time
 Project: Digital Clock
 Description: Display a real-time updating clock in the browser
 Concepts Covered: Date object, getHours, getMinutes, setInterval
