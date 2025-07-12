@@ -42,7 +42,7 @@ Description: Add, delete, and search books from a list (title and author)
 
 Concepts Covered: Array of objects, map, find, CRUD operations
 
-8. Strings and String Methods
+## 8. Strings and String Methods
 Project: Word Counter
 Description: Count the number of words and characters in a given input
 Concepts Covered: split, trim, length, toLowerCase
