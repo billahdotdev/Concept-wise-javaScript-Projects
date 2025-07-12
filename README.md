@@ -63,6 +63,7 @@ Concepts Covered: Math.random, Math.floor
 ## 11. DOM Manipulation
 ### Project: Background Color Changer
 Description: Click a button to change the background color randomly
+
 Concepts Covered: querySelector, style manipulation, innerText
 
 12. Higher-Order Functions
