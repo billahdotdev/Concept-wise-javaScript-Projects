@@ -60,7 +60,7 @@ Description: Simulate rolling a dice and display a number between 1 and 6
 
 Concepts Covered: Math.random, Math.floor
 
-11. DOM Manipulation
+## 11. DOM Manipulation
 Project: Background Color Changer
 Description: Click a button to change the background color randomly
 Concepts Covered: querySelector, style manipulation, innerText
