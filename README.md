@@ -51,6 +51,7 @@ Concepts Covered: split, trim, length, toLowerCase
 ## 9. Date and Time
 ### Project: Digital Clock
 Description: Display a real-time updating clock in the browser
+
 Concepts Covered: Date object, getHours, getMinutes, setInterval
 
 10. Math and Numbers
