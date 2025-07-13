@@ -75,6 +75,7 @@ Concepts Covered: reduce, map, filter
 ## 13. Event Handling
 ### Project: Live Text Previewer
 Description: Type into an input field and display the text in real time
+
 Concepts Covered: input event, addEventListener
 
 14. Object-Oriented JavaScript
