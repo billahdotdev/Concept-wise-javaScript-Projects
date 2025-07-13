@@ -93,7 +93,7 @@ Description: Click a button to fetch and display a random joke from an API
 Concepts Covered: fetch, Promises, async and await
 
 ## 16. Error Handling
-Project: Username Validator
+### Project: Username Validator
 Description: Validate a username and show error messages using try and catch
 Concepts Covered: try, catch, throw, custom error handling
 
