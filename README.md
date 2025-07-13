@@ -1,5 +1,6 @@
 # JavaScript concept wise projects
 
+
 ## 1. Variables and Data Types
 ### Project: Age Calculator
 Description: Input your birth year and output your current age
