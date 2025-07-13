@@ -82,6 +82,7 @@ Concepts Covered: input event, addEventListener
 ## 14. Object-Oriented JavaScript
 ### Project: Bank Account Simulator
 Description: Create a class with methods to deposit, withdraw, and check balance
+
 Concepts Covered: class, constructor, this, class methods
 
 15. Asynchronous JavaScript
