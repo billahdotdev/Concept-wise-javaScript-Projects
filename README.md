@@ -106,7 +106,7 @@ Description: Merge user input with default profile settings using spread and des
 Concepts Covered: Object and array destructuring, spread operator, rest parameters
 
 ## 18. Sets, Maps, and WeakMaps
-Project: Unique Tag Counter
+### Project: Unique Tag Counter
 Description: Input a list of tags and count only the unique ones
 Concepts Covered: Set, Map, add, has, set
 
