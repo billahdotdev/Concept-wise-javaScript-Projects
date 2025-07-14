@@ -114,6 +114,7 @@ Concepts Covered: Set, Map, add, has, set
 ## 19. Callbacks and Promises
 ### Project: Fake API with Callback and Promise
 Description: Simulate data fetching with both callback and promise patterns
+
 Concepts Covered: Callback functions, Promises, async and await
 
 20. ES6 Modules
