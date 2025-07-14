@@ -99,7 +99,7 @@ Description: Validate a username and show error messages using try and catch
 Concepts Covered: try, catch, throw, custom error handling
 
 ## 17. Destructuring, Spread, and Rest
-Project: Profile Merger Tool
+### Project: Profile Merger Tool
 Description: Merge user input with default profile settings using spread and destructuring
 Concepts Covered: Object and array destructuring, spread operator, rest parameters
 
