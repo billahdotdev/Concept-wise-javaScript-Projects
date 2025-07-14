@@ -111,7 +111,7 @@ Description: Input a list of tags and count only the unique ones
 
 Concepts Covered: Set, Map, add, has, set
 
-19. Callbacks and Promises
+## 19. Callbacks and Promises
 Project: Fake API with Callback and Promise
 Description: Simulate data fetching with both callback and promise patterns
 Concepts Covered: Callback functions, Promises, async and await
