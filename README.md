@@ -130,7 +130,7 @@ Description: Create a counter with private state using closures
 Concepts Covered: Closures, function factories, lexical scope
 
 ## 22. Debounce and Throttle
-Project: Debounced Live Search
+### Project: Debounced Live Search
 Description: Search input field that only triggers after typing stops
 Concepts Covered: setTimeout, clearTimeout, performance optimization
 
