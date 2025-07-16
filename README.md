@@ -45,6 +45,7 @@ Concepts Covered: Object literals, accessing and modifying object properties
 
 ## 7. Arrays of Objects
 ### Project: Book List Application
+
 Description: Add, delete, and search books from a list (title and author)
 
 Concepts Covered: Array of objects, map, find, CRUD operations
