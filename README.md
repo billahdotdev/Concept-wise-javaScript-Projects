@@ -101,6 +101,7 @@ Concepts Covered: class, constructor, this, class methods
 
 ## 15. Asynchronous JavaScript
 ### Project: Joke Fetcher Application
+
 Description: Click a button to fetch and display a random joke from an API
 
 Concepts Covered: fetch, Promises, async and await
