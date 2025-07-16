@@ -17,6 +17,7 @@ Concepts Covered: if, else if, comparison operators, logical operators
 
 ## 3. Loops
 ### Project: Multiplication Table Generator
+
 Description: Enter a number to generate its multiplication table from 1 to 10
 
 Concepts Covered: for loop, while loop, loop logic, string building
