@@ -24,6 +24,7 @@ Concepts Covered: for loop, while loop, loop logic, string building
 
 ## 4. Functions
 ### Project: Tip Calculator
+
 Description: Enter bill amount and tip percentage to calculate total cost
 
 Concepts Covered: Function declaration, parameters, return values
