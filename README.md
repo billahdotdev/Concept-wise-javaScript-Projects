@@ -144,7 +144,7 @@ Concepts Covered: export, import, module file structure
 ## 21. Closures and Lexical Scope
 ### Project: Private Counter
 
-Description: Create a counter with private state using closures
+*Description: Create a counter with private state using closures*
 
 Concepts Covered: Closures, function factories, lexical scope
 
