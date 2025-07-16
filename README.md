@@ -3,6 +3,7 @@
 
 ## 1. Variables and Data Types
 ### Project: Age Calculator
+
 Description: Input your birth year and output your current age
 
 Concepts Covered: let, const, numbers, strings, type conversion
