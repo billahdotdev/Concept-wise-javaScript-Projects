@@ -136,6 +136,7 @@ Concepts Covered: Callback functions, Promises, async and await
 
 ## 20. ES6 Modules
 ### Project: Modular Weather App
+
 Description: Split weather application logic into multiple JavaScript modules
 
 Concepts Covered: export, import, module file structure
