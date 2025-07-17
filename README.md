@@ -16,7 +16,7 @@ Description: Enter a score to determine the corresponding grade (A/B/C...)
 Concepts Covered: if, else if, comparison operators, logical operators
 
 ## 3. Loops
-### Project: Multiplication Table Generator
+### Project: Multiplication Table Generator 
 
 Description: Enter a number to generate its multiplication table from 1 to 10
 
