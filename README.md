@@ -1,4 +1,4 @@
-# JavaScript concept wise projects
+# JavaScript concept wise projects 
 
 
 ## 1. Variables and Data Types 
