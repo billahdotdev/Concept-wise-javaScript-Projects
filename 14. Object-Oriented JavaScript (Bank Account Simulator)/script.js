@@ -1,62 +1,65 @@
-body {
-  font-family: Arial, sans-serif;
-  background: #f9f9f9;
-  padding: 30px;
-  text-align: center;
+class BankAccount {
+  constructor(owner, initialBalance = 0) {
+    this.owner = owner;
+    this.balance = initialBalance;
+  }
+
+  deposit(amount) {
+    if (amount > 0) {
+      this.balance += amount;
+      return `Deposited ${amount}৳`;
+    } else {
+      return "Invalid deposit amount.";
+    }
+  }
+
+  withdraw(amount) {
+    if (amount > this.balance) {
+      return "Insufficient balance!";
+    } else if (amount <= 0) {
+      return "Invalid withdrawal amount.";
+    } else {
+      this.balance -= amount;
+      return `Withdrew ${amount}৳`;
+    }
+  }
+
+  getBalance() {
+    return this.balance;
+  }
 }
 
-h2 {
-  color: teal;
+// Create account instance
+const myAccount = new BankAccount("User", 0);
+
+// DOM Elements
+const balanceEl = document.getElementById("balance");
+const amountEl = document.getElementById("amount");
+const messageEl = document.getElementById("message");
+const depositBtn = document.getElementById("depositBtn");
+const withdrawBtn = document.getElementById("withdrawBtn");
+
+// Update UI
+function updateBalance() {
+  balanceEl.innerText = myAccount.getBalance();
 }
 
-.container {
-  max-width: 400px;
-  margin: auto;
-  background: white;
-  padding: 20px;
-  border-radius: 10px;
-  box-shadow: 0 0 10px rgba(0,0,0,0.1);
-}
+// Button Events
+depositBtn.addEventListener("click", () => {
+  const amount = parseFloat(amountEl.value);
+  const msg = myAccount.deposit(amount);
+  messageEl.innerText = msg;
+  updateBalance();
+  amountEl.value = "";
+});
 
-.balance {
-  font-size: 20px;
-  margin-bottom: 20px;
-}
+withdrawBtn.addEventListener("click", () => {
+  const amount = parseFloat(amountEl.value);
+  const msg = myAccount.withdraw(amount);
+  messageEl.innerText = msg;
+  updateBalance();
+  amountEl.value = "";
+});
 
-input {
-  width: 100%;
-  padding: 10px;
-  margin-bottom: 15px;
-  font-size: 16px;
-  border: 1px solid #ccc;
-  border-radius: 6px;
-}
-
-.buttons {
-  display: flex;
-  justify-content: space-between;
-}
-
-button {
-  padding: 10px 20px;
-  font-size: 16px;
-  border: none;
-  border-radius: 6px;
-  cursor: pointer;
-}
-
-#depositBtn {
-  background-color: #4caf50;
-  color: white;
-}
-
-#withdrawBtn {
-  background-color: #f44336;
-  color: white;
-}
-
-#message {
-  margin-top: 15px;
-  color: #555;
-  font-weight: bold;
-}
+// Initial balance render
+updateBalance();
