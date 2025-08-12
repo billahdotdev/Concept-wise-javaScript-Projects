@@ -155,3 +155,5 @@ Concepts Covered: Closures, function factories, lexical scope
 
 Concepts Covered: setTimeout, clearTimeout, performance optimization
 
+
+
