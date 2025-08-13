@@ -44,3 +44,5 @@ function search(query) {
 searchInput.addEventListener("input", debounce(e => {
   search(e.target.value);
 }, 500)); // 500ms debounce delay
+
+ 
