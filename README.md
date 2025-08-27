@@ -153,7 +153,7 @@ Concepts Covered: Closures, function factories, lexical scope
 
 *Description: Search input field that only triggers after typing stops*
 
-Concepts Covered: setTimeout, clearTimeout, performance optimization
+Concepts Covered: setTimeout, clearTimeout, performance optimization 
 
 
 
